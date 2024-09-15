@@ -1,0 +1,19 @@
+﻿{
+  "name": "com.galactic.workshop.steam-depot-uploader",
+  "version": "0.1.0",
+  "displayName": "Steam Depot Uploader",
+  "description": "A Unity package for uploading builds to Steam depots.",
+  "unity": "2019.1",
+  "dependencies": {
+    "com.unity.modules.unitywebrequest": "1.0.0"
+  },
+  "keywords": [
+    "steam",
+    "upload",
+    "depot"
+  ],
+  "author": {
+    "name": "Dmitrii Zaitsev",
+    "email": "zayceffdev@gmail.com"
+  }
+}
